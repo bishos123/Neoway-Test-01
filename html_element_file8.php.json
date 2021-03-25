@@ -1,0 +1,1207 @@
+{
+    "erro": false,
+    "mensagem": "DADOS ENCONTRADOS COM SUCESSO.",
+    "total": 917,
+    "dados": [
+        {
+            "uf": "MG",
+            "localidade": "Abadia dos Dourados",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "38540000",
+                    "cepFinal": "38549999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Abaet\u00e9",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35620000",
+                    "cepFinal": "35620999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Abre Campo",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35365000",
+                    "cepFinal": "35366999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Acaiaca",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35438000",
+                    "cepFinal": "35438999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Aguanil",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37273000",
+                    "cepFinal": "37274999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Aimor\u00e9s",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35200000",
+                    "cepFinal": "35219999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Aiuruoca",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37450000",
+                    "cepFinal": "37451999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alagoa",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37458000",
+                    "cepFinal": "37459999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Albertina",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37596000",
+                    "cepFinal": "37599999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alfenas",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "1",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37130001",
+                    "cepFinal": "37139999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alfenas",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "1",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37130001",
+                    "cepFinal": "37138999",
+                    "tipo": "C"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alfredo Vasconcelos",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36272000",
+                    "cepFinal": "36274999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Almenara",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "39900000",
+                    "cepFinal": "39911999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alpercata",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35138000",
+                    "cepFinal": "35139999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alpin\u00f3polis",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37940000",
+                    "cepFinal": "37944999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alterosa",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37145000",
+                    "cepFinal": "37147999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alto Capara\u00f3",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36979000",
+                    "cepFinal": "36979999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alto Jequitib\u00e1",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36976000",
+                    "cepFinal": "36978999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alto Rio Doce",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36260000",
+                    "cepFinal": "36264999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alvarenga",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35249000",
+                    "cepFinal": "35249999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alvin\u00f3polis",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35950000",
+                    "cepFinal": "35959999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Alvorada de Minas",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "39140000",
+                    "cepFinal": "39149999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Al\u00e9m Para\u00edba",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36660000",
+                    "cepFinal": "36669999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Amparo da Serra",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35444000",
+                    "cepFinal": "35446999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Andradas",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37795000",
+                    "cepFinal": "37799999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Andrel\u00e2ndia",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37300000",
+                    "cepFinal": "37304999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Angel\u00e2ndia",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "39685000",
+                    "cepFinal": "39687999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Ant\u00f4nio Carlos",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36220000",
+                    "cepFinal": "36224999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Ant\u00f4nio Dias",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35177000",
+                    "cepFinal": "35178999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Ant\u00f4nio Prado de Minas",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36850000",
+                    "cepFinal": "36854999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Aracitaba",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36255000",
+                    "cepFinal": "36259999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Araguari",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "1",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "38440001",
+                    "cepFinal": "38459999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Araguari",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "1",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "38440001",
+                    "cepFinal": "38449999",
+                    "tipo": "C"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Arantina",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37360000",
+                    "cepFinal": "37369999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Araponga",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36594000",
+                    "cepFinal": "36599999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Arapor\u00e3",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "38465000",
+                    "cepFinal": "38469999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Arapu\u00e1",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "38860000",
+                    "cepFinal": "38869999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Arax\u00e1",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "1",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "38180001",
+                    "cepFinal": "38184999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Arax\u00e1",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "1",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "38180001",
+                    "cepFinal": "38184999",
+                    "tipo": "C"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Ara\u00e7a\u00ed",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35777000",
+                    "cepFinal": "35779999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Ara\u00e7ua\u00ed",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "39600000",
+                    "cepFinal": "39609999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Ara\u00fajos",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35603000",
+                    "cepFinal": "35603999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Arceburgo",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37820000",
+                    "cepFinal": "37854999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Arcos",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "35588000",
+                    "cepFinal": "35589999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Areado",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "37140000",
+                    "cepFinal": "37141999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Argirita",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36710000",
+                    "cepFinal": "36719999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Aricanduva",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "39678000",
+                    "cepFinal": "39679999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Arinos",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "38680000",
+                    "cepFinal": "38688999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Astolfo Dutra",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "36780000",
+                    "cepFinal": "36783999",
+                    "tipo": "T"
+                }
+            ]
+        },
+        {
+            "uf": "MG",
+            "localidade": "Atal\u00e9ia",
+            "locNu": "",
+            "localidadeSubordinada": "",
+            "logradouroDNEC": "",
+            "logradouroTextoAdicional": "",
+            "logradouroTexto": "",
+            "bairro": "",
+            "baiNu": "",
+            "nomeUnidade": "",
+            "cep": "",
+            "tipoCep": "",
+            "numeroLocalidade": "",
+            "situacao": "0",
+            "faixasCaixaPostal": [],
+            "faixasCep": [
+                {
+                    "cepInicial": "39850000",
+                    "cepFinal": "39854999",
+                    "tipo": "T"
+                }
+            ]
+        }
+    ]
+}</pre>

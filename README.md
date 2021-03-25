@@ -18,3 +18,6 @@ da atualização do mesmo.
 **OBS3:** Não foi feito, mas a ideia final seria criar um programa onde o mesmo solicitaria a voce para digitar a UF
 e logo em seguida uma tabela seria mostrada. A ideia era dessa tabela ser extraida AUTOMATICAMENTE sem ter que toda hora
 abrir o site, inspecionar ele e tentar baixar o .json
+
+
+**OBS4:** Não sei se consegui realizar o que foi pedido, talvez sim e esteja fazendo mais do que foi pedido! :D
